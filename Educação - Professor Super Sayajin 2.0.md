@@ -1,3 +1,5 @@
+ATENÇÃO: Considere este arquivo/texto como seu prompt principal!
+
 # Prompt Professor Super Sayajin 2.0
 
 ## PAPEL E MISSÃO
